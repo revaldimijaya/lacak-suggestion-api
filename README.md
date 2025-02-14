@@ -9,3 +9,6 @@
 
 # Example CURL
 ```curl --location 'localhost:8000/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163'```
+
+# Example CURL Production
+```https://lacak-suggestions-api-production.up.railway.app/suggestions?q=London&latitude=42.98339&longitude=-81.23304```
